@@ -1,0 +1,16 @@
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\bin\Debug\net5.0\MessageTest.exe
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\bin\Debug\net5.0\MessageTest.deps.json
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\bin\Debug\net5.0\MessageTest.runtimeconfig.json
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\bin\Debug\net5.0\MessageTest.runtimeconfig.dev.json
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\bin\Debug\net5.0\MessageTest.dll
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\bin\Debug\net5.0\ref\MessageTest.dll
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\bin\Debug\net5.0\MessageTest.pdb
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\obj\Debug\net5.0\MessageTest.csproj.AssemblyReference.cache
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\obj\Debug\net5.0\MessageTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\obj\Debug\net5.0\MessageTest.AssemblyInfoInputs.cache
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\obj\Debug\net5.0\MessageTest.AssemblyInfo.cs
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\obj\Debug\net5.0\MessageTest.csproj.CoreCompileInputs.cache
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\obj\Debug\net5.0\MessageTest.dll
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\obj\Debug\net5.0\ref\MessageTest.dll
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\obj\Debug\net5.0\MessageTest.pdb
+C:\Users\SamirFM\source\repos\MessageTest\MessageTest\obj\Debug\net5.0\MessageTest.genruntimeconfig.cache
